@@ -1,0 +1,20 @@
+covid app
+login screen-email and password 
+registeration for the vaccine
+covid info page(covid daily status,overall status,daily analysis)
+helpline
+media gallery(video,audio and images)
+games 
+search bar (for searching the places for vaccination)
+FAQ Section
+blogs and articles
+Registration Page-
+Name of the person(Full name)
+EmailId
+Password
+Phone number
+Age
+City 
+
+
+
